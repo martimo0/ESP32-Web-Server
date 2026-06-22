@@ -14,6 +14,7 @@ Afterwards I followed the guide to set up the circuit specifically using this im
 
 (taken from the tutotrial PDF for ESP32 web server tutortial from https://randomnerdtutorials.com)
 
+For security and privacy purposes the exact code I used will not be displayed as it involves an IP address but the outcome will be shown.
 The web server was configured using the code found here: https://github.com/RuiSantosdotme/ESP32-Course/blob/master/code/WiFi_Web_Server_Outputs/WiFi_Web_Server_Outputs.ino
 
 I only changed the Wi-Fi's SSD and password accordingly to fit my personal Wi-Fi.
