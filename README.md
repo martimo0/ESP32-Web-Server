@@ -4,7 +4,8 @@ Learning the basics of the ESP32 through making a simple web server to control L
 
 After purchasing a starter kit for the ESP32 I found this online tutorial to create a basic web server that will control LEDS utilising Wi-Fi and a web server so I decided to document this.
 
-I began with setting up the Arduino IDE which I will be using to upload code to the ESP32 via a USB-C cable. Afterwards I ran the classic Blink test which already had a preorganised sketch within the Arduino IDE itself. I only had to change it so that the 2nd blue LED would light up on the ESP32 (given the red LED already lights up as it's plugged in). The Blink INO file is also added.
+I began with setting up the Arduino IDE which I will be using to upload code to the ESP32 via a USB-C cable. Afterwards I ran the classic Blink test which already had a preorganised sketch within the Arduino IDE itself. I only had to change it so that the 2nd blue LED would light up on the ESP32 (given the red LED already lights up as it's plugged in). The test was successful so i moved on with the web server.
+The Blink INO file is also added.
 
 Afterwards I followed the guide to set up the circuit specifically using this image:
 
